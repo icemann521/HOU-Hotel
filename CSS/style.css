@@ -57,7 +57,7 @@ img {
   padding: 13px 20px;
 }
 
-.btn-hover {
+.btn:hover {
   background: #f7c08a;
   color: #333;
 }
