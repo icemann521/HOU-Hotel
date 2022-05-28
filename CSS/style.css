@@ -217,7 +217,24 @@ img {
 }
 /* Features End Here */
 
+/* About Info (Info Page) Starts Here */
+#about-info .container {
+  display: flex;
+  height: 100%;
+}
 
+.about-info .info-left {
+  min-height: 100%;
+}
+
+.about-info .info-right img {
+  display: block;
+  margin: auto;
+  object-fit: cover;
+  width: 70%;
+  height: 100%;
+  border-radius: 50%;
+}
 
 /* Footer Starts Here */
 #main-footer {
