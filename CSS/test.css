@@ -117,6 +117,10 @@ ul {
   font-weight: bold;
 }
 
+.navbar a:hover {
+  border-bottom: 2px solid rosybrown;
+}
+
 .navbar .nav-container {
   display: flex;
   justify-content: space-between;
